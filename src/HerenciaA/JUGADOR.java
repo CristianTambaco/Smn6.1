@@ -1,5 +1,7 @@
 package HerenciaA;
 
+
+
 public class JUGADOR {
 
     //Atributos
@@ -35,8 +37,6 @@ public class JUGADOR {
         }
 
         @Override
-
-
         public void mostrarInfo() {
             System.out.println("Portero: ");
             super.mostrarInfo();
