@@ -101,11 +101,11 @@ public class JUGADOR {
 
     public static void main(String[] args){
 
-        Delantero d1 = new Delantero("Delantero",33,"Independiente");
+        Delantero d1 = new Delantero("Denis",33,"Independiente");
         d1.mostrarInfo();
         Defensa def1 = new Defensa("Marco",23,"Argentina",2);
         def1.mostrarInfo();
-        Portero por1 = new Portero("Luis",27,"Barcelona",3,2);
+        Portero por1 = new Portero("Pedro",27,"Barcelona",3,2);
         por1.mostrarInfo();
 
 
